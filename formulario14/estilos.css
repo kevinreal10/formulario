@@ -54,15 +54,15 @@
     align-items: center;
 }
 .verDatosEnPantalla{
-    background-color: #a7a77e;
+    background-color: #08ce1f;
     margin: 30px;
     border-radius: 60px;
     font-size: x-large
     
 }
 .comentario {
-    background-color: #FFFFE0;
-    box-shadow: 30px 10px 80px  #FFEFD5;
+    background-color: #0ec51d;
+    box-shadow: 30px 10px 80px  #169e0c;
     position: static;
     border: 3px solid #000000;
     padding: 30px;
@@ -86,5 +86,5 @@
 }
 
 .botonpublicar:hover {
-    background-color: #F5F5DC;
+    background-color: #109c10;
 }

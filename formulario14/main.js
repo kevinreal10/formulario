@@ -1,10 +1,10 @@
 const firebaseConfig = {
-  apiKey: "AIzaSyBTwkciMzQ9os3eP-qjSccqi-C0FQ8spmI",
-  authDomain: "registroweb-94ac6.firebaseapp.com",
-  projectId: "registroweb-94ac6",
-  storageBucket: "registroweb-94ac6.appspot.com",
-  messagingSenderId: "366092787168",
-  appId: "1:366092787168:web:cbec25767fbaf3810d1f85"
+  apiKey: "AIzaSyA3vCC-VzNMeiqfX-Sd_JlvmxzJePQt2NU",
+  authDomain: "registroweb-e4967.firebaseapp.com",
+  projectId: "registroweb-e4967",
+  storageBucket: "registroweb-e4967.appspot.com",
+  messagingSenderId: "963488014581",
+  appId: "1:963488014581:web:ce292acb6d0d0188ad65bc"
 };
 
 // Initialize Firebase
